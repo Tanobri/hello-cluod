@@ -1,0 +1,24 @@
+{
+  "name": "hello-cluod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanobri/hello-cluod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanobri/hello-cluod/issues"
+  },
+  "homepage": "https://github.com/Tanobri/hello-cluod#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
